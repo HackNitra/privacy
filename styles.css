@@ -520,24 +520,8 @@ main li::marker {
   margin-top: 0;
 }
 
-.consent {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 0.85rem;
-  align-items: start;
-}
-
-.consent p {
-  margin: 0;
-}
-
-.box {
-  width: 1.15rem;
-  height: 1.15rem;
-  margin-top: 0.28rem;
-  border: 1.5px solid var(--ink-soft);
-  border-radius: 4px;
-  background: var(--paper);
+.form-panel p:last-child {
+  margin-bottom: 0;
 }
 
 .note {
