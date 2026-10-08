@@ -1,6 +1,6 @@
 # privacy.hacknitra.sk
 
-Privacy policy (Zásady ochrany osobných údajov) for HackNitra Ideathon. A single static page with no build step. It makes no third-party requests and sets no cookies.
+Privacy policy (Zásady ochrany osobných údajov) for the HackNitra event Tvor AI Ty! A single static page with no build step. It makes no third-party requests and sets no cookies.
 
 ```
 index.html      the policy text
